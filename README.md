@@ -5,16 +5,16 @@
 * Performed feature engineering and selection using lasso and ridge penalties to eliminate features which had little or no impact on the residual sum of squares error.
 
 ### Code
-1. [Simple Linear Regression](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/simple-linear-regression/simple-linear-regression.ipynb)
-2. [Multiple Linear Regression](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/multiple-linear-regression/multiple-regression.ipynb)
-3. [Multiple Linear Regression with Gradient Descent Optimization](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/multiple-linear-regression/multiple-regression-gradient-descent.ipynb)
-4. [Polynomial Regression](https://github.com/cybbberpulseraj/machine-learning-regression/blob/master/polynomial-regression/polynomial-regression.ipynb)
-5. [Ridge Regression](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/ridge-regression/ridge-regression.ipynb)
-6. [Ridge Regression with Gradient Descent Optimization](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/ridge-regression/ridge-regression-gradient-descent.ipynb)
-7. [Lasso Regression](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/lasso-regression/lasso-regression.ipynb)
-8. [Nearest Neighbor Regression](https://github.com/cyberpulseraj/machine-learning-regression/blob/master/nearest-neighbor-regression/nearest-neighbor-regression.ipynb)
+1. [Simple Linear Regression](https://github.com/cyberpulseraj/regression-models/blob/master/simple-linear-regression/simple-linear-regression.ipynb)
+2. [Multiple Linear Regression](https://github.com/cyberpulseraj/regression-models/blob/master/multiple-linear-regression/multiple-regression.ipynb)
+3. [Multiple Linear Regression with Gradient Descent Optimization](https://github.com/cyberpulseraj/regression-models/blob/master/multiple-linear-regression/multiple-regression-gradient-descent.ipynb)
+4. [Polynomial Regression](https://github.com/cybbberpulseraj/regression-models/blob/master/polynomial-regression/polynomial-regression.ipynb)
+5. [Ridge Regression](https://github.com/cyberpulseraj/regression-models/blob/master/ridge-regression/ridge-regression.ipynb)
+6. [Ridge Regression with Gradient Descent Optimization](https://github.com/cyberpulseraj/regression-models/blob/master/ridge-regression/ridge-regression-gradient-descent.ipynb)
+7. [Lasso Regression](https://github.com/cyberpulseraj/regression-models/blob/master/lasso-regression/lasso-regression.ipynb)
+8. [Nearest Neighbor Regression](https://github.com/cyberpulseraj/regression-models/blob/master/nearest-neighbor-regression/nearest-neighbor-regression.ipynb)
 
-### [Data](https://github.com/cyberpulseraj/machine-learning-regression/tree/master/data)
+### [Data](https://github.com/cyberpulseraj/regression-models/tree/master/data)
 
 ### Programming Language
 Python
